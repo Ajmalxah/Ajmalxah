@@ -97,8 +97,8 @@ grop_broadcast - to broadcast a message to all groups
 
 ## TELAGRAM SUPPORT 
 
-* [![Matrix Botz](https://img.shields.io/static/v1?label=MATRIX&message=BOTZ&color=critical)](https://t.me/MatRixBotzTGsupport)
+* [![Ajmal Xah Botz](https://img.shields.io/static/v1?label=MATRIX&message=BOTZ&color=critical)](https://t.me/+wTWu0Gg0yH43YTc1)
 
 ## THANKS TO PRIME_KUTTU WHO HAVE EDITED THIS REPO... 
 
-[![PRIME_KUTTU](https://img.shields.io/static/v1?label=PRIMEKUTTU&message=BOTZ&color=critical)](https://t.me/PRIME_KUTTU)
+* [![PRIME_KUTTU](https://img.shields.io/static/v1?label=PRIMEKUTTU&message=BOTZ&color=critical)](https://t.me/PRIME_KUTTU)
