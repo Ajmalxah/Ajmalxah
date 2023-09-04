@@ -99,6 +99,6 @@ grop_broadcast - to broadcast a message to all groups
 
 * [![Matrix Botz](https://img.shields.io/static/v1?label=MATRIX&message=BOTZ&color=critical)](https://t.me/MatRixBotzTGsupport)
 
-## THANKS TO PRIME_KUTTU WHO HAVE EDITED THIS REPO
+## THANKS TO PRIME_KUTTU WHO HAVE EDITED THIS REPO... 
 
 [![PRIME_KUTTU](https://img.shields.io/static/v1?label=PRIMEKUTTU&message=BOTZ&color=critical)](https://t.me/PRIME_KUTTU)
