@@ -6,12 +6,12 @@
   <b> 𝙋𝙀𝙏𝙀𝙍 𝙋𝘼𝙍𝙆𝙀𝙍 𝐁𝐎𝐓</b>
 </h1>
 
-<a href="https://github.com/matrixbotz0/PETER-PARKER-BOT"><img src="https://img.shields.io/github/stars/matrixbotz0/PETER-PARKER-BOT?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/matrixbotz0/PETER-PARKER-BOT/network/members"> <img src="https://img.shields.io/github/forks/matrixbotz0/PETER-PARKER-BOT?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/matrixbotz0/PETER-PARKER-BOT"> <img src="https://img.shields.io/github/repo-size/matrixbotz0/PETER-PARKER-BOT?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a>   
-<a href="https://github.com/matrixbotz0/PETER-PARKER-BOT/commit/main"> <img src="https://img.shields.io/github/last-commit/matrixbotz0/PETER-PARKER-BOT?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/matrixbotz0/PETER-PARKER-BOT"> <img src="https://img.shields.io/github/contributors/matrixbotz0/PETER-PARKER-BOT?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a>
-<a href="https://github.com/matrixbotz0/PETER-PARKER-BOT/blob/main/LICENSE"> <img src="https://img.shields.io/badge/License- GPL 2.0 license -blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/Ajmalxah/Ajmalxah"><img src="https://img.shields.io/github/stars/matrixbotz0/PETER-PARKER-BOT?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/Ajmalxah/Ajmalxah/network/members"> <img src="https://img.shields.io/github/forks/matrixbotz0/PETER-PARKER-BOT?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/Ajmalxah/Ajmalxah"> <img src="https://img.shields.io/github/repo-size/matrixbotz0/PETER-PARKER-BOT?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a>   
+<a href="https://github.com/Ajmalxah/Ajmalxah/commit/main"> <img src="https://img.shields.io/github/last-commit/Ajmalxah/Ajmalxah?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/Ajmalxah/Ajmalxah"> <img src="https://img.shields.io/github/contributors/Ajmalxah/Ajmalxah?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a>
+<a href="https://github.com/Ajmalxah/Ajmalxah/blob/main/LICENSE"> <img src="https://img.shields.io/badge/License- GPL 2.0 license -blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-skyblue?style=for-the-badge&logo=python" alt="Python" /> </a>
 <a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=white&label=pyrogram&logo=python&logoColor=blue&style=for-the-badge" /></a>
 
@@ -54,15 +54,15 @@
 
 ## Deploy to Heroku 
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ajmalmaalik977815/AjmalMaalik-peterAK)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ajmalxah/Ajmalxah)
 
 ## Deploy to Render
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/matrixbotz0/PETER-PARKER-BOT)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Ajmalxah/Ajmalxah)
 
 ## Deploy to Koyeb
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/koyeb/PETER-PARKER-BOT&branch=main&name=PETER-PARKER-BOT)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/koyeb/Ajmalxah/Ajmalxah&branch=main&name=Ajmalxah)
 
 ## Commands
 ```
@@ -97,5 +97,8 @@ grop_broadcast - to broadcast a message to all groups
 
 ## TELAGRAM SUPPORT 
 
-* [![Matrix BOTZ](https://img.shields.io/static/v1?label=MATRIX&message=BOTZ&color=critical)](https://t.me/MatRixBotzTGsupport)
+* [![Matrix Botz](https://img.shields.io/static/v1?label=MATRIX&message=BOTZ&color=critical)](https://t.me/MatRixBotzTGsupport)
 
+## THANKS TO PRIME_KUTTU WHO HAVE EDITED THIS REPO
+
+[![PRIME_KUTTU](https://img.shields.io/static/v1?labelPRIMEKUTTU&message=BOTZ&color=critical)](https://t.me/PRIME_KUTTU)
