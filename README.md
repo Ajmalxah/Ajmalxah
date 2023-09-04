@@ -3,7 +3,7 @@
   <img src="https://graph.org/file/b8bbeea2a8107c6af192f.jpg" alt="MatRixBotz LOGO">
 </p>
 <h1 align="center">
-  <b> 𝙋𝙀𝙏𝙀𝙍 𝙋𝘼𝙍𝙆𝙀𝙍 𝐁𝐎𝐓</b>
+  <b> AJMAL FILTER BOT</b>
 </h1>
 
 <a href="https://github.com/Ajmalxah/Ajmalxah"><img src="https://img.shields.io/github/stars/matrixbotz0/PETER-PARKER-BOT?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
